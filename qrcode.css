@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+html,body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+
+    background-color: white;
+    width: 340px;
+    height: 500px;
+    border-radius: 10px;
+    margin-top:50px;
+    padding-top: 15px;
+    
+}
+#foto{
+    
+    padding:0px;
+    margin: 0px; 
+}
+p{
+    text-indent: 5px;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 300px;
+    border-radius: 10px;
+}
+h2,p{
+    text-align: center;
+}
